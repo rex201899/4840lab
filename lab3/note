@@ -1,0 +1,5 @@
+scp zr2208@micro11.ee.columbia.edu:/user/stud/spring19/zr2208/Desktop/4840/lab3/lab3-hw/output_files/soc_system.rbf /mnt
+
+/user/stud/spring19/zr2208/Desktop/4840/lab3/lab3-hw/soc_system.dts
+
+scp zr2208@micro11.ee.columbia.edu:/user/stud/spring19/zr2208/Desktop/4840/lab3/lab3-hw/soc_system.dts /mnt
